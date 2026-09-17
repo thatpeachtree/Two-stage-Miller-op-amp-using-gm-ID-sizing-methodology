@@ -1,4 +1,4 @@
-# Two-Stage CMOS Op-Amp using gm/Id (Sky130 PDK)
+# Two-Stage CMOS Op-Amp using gm/Id (SkyWater130 PDK)
 A two-stage operational amplifier designed in the SkyWater Sky130 PDK using the gm/Id sizing method. The schematic was built in Xschem and simulated in Ngspice.
 
 <img width="761" height="387" alt="image" src="https://github.com/user-attachments/assets/370899cb-5c05-42f5-ab13-51bf0ee4c9b6" />
