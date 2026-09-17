@@ -108,3 +108,11 @@ Take the smaller value, **6.31 V/µs** as the slew rate.
 <img width="1456" height="841" alt="image" src="https://github.com/user-attachments/assets/e6880f47-80b6-4821-ac65-a83e1c94e7d0" />
 <img width="1447" height="823" alt="image" src="https://github.com/user-attachments/assets/1e43ebd0-86d6-463a-8a34-d546e966e349" />
 
+## Requirements
+
+| Tools used|
+|---|
+| [xschem](https://xschem.sourceforge.io/) |
+| [ngspice](https://ngspice.sourceforge.io/) | 
+| [sky130 PDK](https://github.com/google/skywater-pdk) |
+
